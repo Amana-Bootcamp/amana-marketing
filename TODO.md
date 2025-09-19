@@ -1,0 +1,4 @@
+- [x] Update DualBubbleMap component to show spend instead of conversions
+- [x] Change title to "Revenue & Spend by Region"
+- [x] Change second BubbleMap title to "Spend by Region" and valueType to "spend"
+- [x] Changes applied successfully
