@@ -161,6 +161,7 @@ export interface MarketingData {
   campaigns: Campaign[];
   market_insights: MarketInsights;
   filters: Filters;
+  weekly_performance: WeeklyPerformance[];
 }
 
 export interface ApiResponse {
